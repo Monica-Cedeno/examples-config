@@ -22,6 +22,11 @@
             "Subscriptions"
           ],
           "minTykVersion": "5.0"
+        },
+        {
+          "location": "udg/first-demo",
+          "name": "First UDG Demo",
+          "description": "This UDG demo is very simple"
         }
       ]
     }
